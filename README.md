@@ -1,3 +1,4 @@
 # new-world
 starting a new repository
-ok
+contains python program that prints new world.
+
